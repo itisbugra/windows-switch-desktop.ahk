@@ -1,4 +1,4 @@
-## AHK script for switching between desktops in Windows
+# AHK script for switching between desktops in Windows
 
 *AutoHotKey* AHK script for switching between desktops when 4th or 5th mouse
 button is clicked.
